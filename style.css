@@ -61,6 +61,7 @@ button {
   border-radius: var(--size-border-radius);
   font-size: 32px;
   margin-top: 8px;
+  visibility: hidden;
 }
 
 .game__score {
@@ -73,6 +74,7 @@ button {
   background-color: var(--color-darkpink);
   border: 3px solid var(--color-black);
   border-radius: var(--round-border-radius);
+  visibility: hidden;
 }
 
 .game__field {
